@@ -1,0 +1,8 @@
+{
+  "name": "Village Bank Platform",
+  "description": "A comprehensive ROSCA (Rotating Savings and Credit Association) platform for managing saving groups, loans, and shared interest distributions with multi-role support.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
